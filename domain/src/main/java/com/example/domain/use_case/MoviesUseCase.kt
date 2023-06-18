@@ -23,6 +23,7 @@ class MoviesUseCase @Inject constructor(private val repository: MoviesRepository
                     MoviesPagingSource(repository,catId,lang)
                 }
             )
+            emit(Resource.Success<Pager<Int, MovieItem>>(getMovies))
         }catch (e:Exception){
             emit(Resource.Error<Pager<Int,MovieItem>>("${e.localizedMessage} : An unexpected error happened"))
         }
