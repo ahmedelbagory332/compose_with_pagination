@@ -4,8 +4,9 @@ import com.example.data.dto.GenreDto
 import com.example.data.dto.GenreItemDto
 import com.example.domain.model.GenreItemModel
 import com.example.domain.model.GenreModel
+import javax.inject.Inject
 
-class GenreMapper {
+class GenreMapper @Inject constructor()  {
 
     fun fromRemoteToModel(obj:GenreDto):GenreModel{
         return GenreModel(
