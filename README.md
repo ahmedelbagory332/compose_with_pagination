@@ -2,11 +2,6 @@
 
 
 
-Part 1  : https://www.youtube.com/watch?v=H-ur8SO2Tzg
+Watch : https://www.linkedin.com/feed/update/urn:li:activity:7190022989743058944/
 
-Part 2  : https://www.youtube.com/watch?v=Rh2zRUcff2Q
-
-Part 3  : https://www.youtube.com/watch?v=mzDFdlTaFMg
-
-Part 4  :  https://www.youtube.com/watch?v=Sxi0jmpYIDo
 
